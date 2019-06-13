@@ -7,3 +7,6 @@ Really easy to use:
   3. npm install
   4. npm start
   5. HERE WE GO!
+  
+  
+Another approach: https://jovial-einstein-e26aa9.netlify.com
